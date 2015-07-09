@@ -1,5 +1,7 @@
 module Lift
 
-# package code goes here
+export @^
+
+include("liftmacro.jl")
 
 end # module
